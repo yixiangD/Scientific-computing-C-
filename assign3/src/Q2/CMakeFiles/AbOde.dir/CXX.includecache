@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/AbstractOdeSolver.hpp
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/ForwardEulerSolver.cpp
+iostream
+-
+AbstractOdeSolver.hpp
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/AbstractOdeSolver.hpp
+ForwardEulerSolver.hpp
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/ForwardEulerSolver.hpp
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/ForwardEulerSolver.hpp
+AbstractOdeSolver.hpp
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/AbstractOdeSolver.hpp
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/RungeKuttaSolver.cpp
+RungeKuttaSolver.hpp
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/RungeKuttaSolver.hpp
+iostream
+-
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/RungeKuttaSolver.hpp
+AbstractOdeSolver.hpp
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/AbstractOdeSolver.hpp
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/main.cpp
+iostream
+-
+ForwardEulerSolver.hpp
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/ForwardEulerSolver.hpp
+RungeKuttaSolver.hpp
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q2/RungeKuttaSolver.hpp
+

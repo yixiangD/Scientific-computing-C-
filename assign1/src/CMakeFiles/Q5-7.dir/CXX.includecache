@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign1/src/Q5-7.cpp
+iostream
+-
+math.h
+-
+cmath
+-
+

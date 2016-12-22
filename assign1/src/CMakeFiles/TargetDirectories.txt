@@ -1,0 +1,8 @@
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign1/src/CMakeFiles/edit_cache.dir
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign1/src/CMakeFiles/rebuild_cache.dir
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign1/src/CMakeFiles/list_install_components.dir
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign1/src/CMakeFiles/install.dir
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign1/src/CMakeFiles/install/strip.dir
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign1/src/CMakeFiles/install/local.dir
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign1/src/CMakeFiles/Q5-7.dir
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign1/src/CMakeFiles/Q1-4.dir

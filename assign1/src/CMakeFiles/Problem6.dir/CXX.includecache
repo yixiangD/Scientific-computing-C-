@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign1/src/problem6.cpp
+iostream
+-
+math.h
+-
+

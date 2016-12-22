@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign4/src/Q1/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+fstream
+-
+

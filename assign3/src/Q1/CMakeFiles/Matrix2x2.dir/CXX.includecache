@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q1/Matrix2x2.cpp
+Matrix2x2.hpp
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q1/Matrix2x2.hpp
+iostream
+-
+stdexcept
+-
+iomanip
+-
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q1/Matrix2x2.hpp
+iostream
+-
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q1/main.cpp
+iostream
+-
+math.h
+-
+Matrix2x2.hpp
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign3/src/Q1/Matrix2x2.hpp
+

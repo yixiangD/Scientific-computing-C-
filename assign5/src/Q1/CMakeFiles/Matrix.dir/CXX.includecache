@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign5/src/Q1/Matrix.hpp
+iomanip
+-
+stdexcept
+-
+math.h
+-
+complex
+-
+iostream
+-
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign5/src/Q1/main.cpp
+iostream
+-
+Matrix.hpp
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign5/src/Q1/Matrix.hpp
+math.h
+-
+complex
+-
+stdio.h
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign4/src/Q2/main.cpp
+iostream
+-
+string
+-
+pairs.hpp
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign4/src/Q2/pairs.hpp
+
+/Users/doggydeng/Desktop/mycode/c++/ENGN2912B/assign4/src/Q2/pairs.hpp
+iostream
+-
+
